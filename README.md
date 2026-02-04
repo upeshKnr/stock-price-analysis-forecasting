@@ -7,8 +7,7 @@ This project includes an interactive **Streamlit web application** for visualiza
 
 ## 🚀 Live Demo
 
-> _(Add your Streamlit app URL here after deployment)_  
-> `https://your-app-name.streamlit.app`
+> https://stock-price-analysis-forecasting-by-upesh.streamlit.app/
 
 ---
 
